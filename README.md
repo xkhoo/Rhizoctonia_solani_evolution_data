@@ -7,23 +7,23 @@ The table label for each supplementary table is included in the thesis and liste
 
 CHAPTER 1:
 
-Supplementary Table 1.1: 
+Table 1.1: 
 
 
 CHAPTER 2:
 
-Supplementary Table 2.1:
+Table 2.1:
 
-Supplementary Table 2.2:
+Table 2.2:
 
-Supplementary Table 2.3:
+Table 2.3:
 
 
 CHAPTER 3:
 
-Supplementary Table 3.1:
+Table 3.1:
 
-Supplementary Table 3.2:
+Table 3.2:
 
-Supplementary Table 3.3:
+Table 3.3:
 
