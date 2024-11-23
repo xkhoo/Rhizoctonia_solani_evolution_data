@@ -7,23 +7,22 @@ The table label for each supplementary table is included in the thesis and liste
 
 CHAPTER 1:
 
-Table 1.1: 
+Table 1.1: Metadata of 3,648 _Rhizoctonia solani_ isolates obtained from Genbank and used in this study. 
 
 
 CHAPTER 2:
 
-Table 2.1:
+Table 2.1: Metadata of the complete ITS dataset containing 4,119 _Rhizoctonia solani_ isolates collected in the last 70 years and newly sequenced isolates from Nebraska.
 
-Table 2.2:
+Table 2.2: Metadata of the concatenated dataset containing 49 _Rhizoctonia solani_ isolates.
 
-Table 2.3:
 
 
 CHAPTER 3:
 
-Table 3.1:
+Table 3.2: Metadata of 914 _Rhizoctonia solani_ AG-3 isolates included in the global alignment.
 
-Table 3.2:
+Table 3.2: Sequence difference matrix of 37 _Rhizoctonia solani_ isolates obtained from Fungal Ecology Lab Culture Collection (FELCC). 
 
-Table 3.3:
+Table 3.3: Sequence difference matrix of 50 representative isolates based on the global alignment of _Rhizoctonia solani_ AG-3 subpopulations, which are collected from different hosts.
 
